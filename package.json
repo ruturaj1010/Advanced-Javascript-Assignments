@@ -4,7 +4,6 @@
   "description": "This folder contains assignments related to asynchronous JavaScript.",
   "main": "index.js",
   "scripts": {
-    "all": "npx jest ./tests/",
     "AsyncCache": "npx jest ./tests/AsyncCache.test.js",
     "asyncReduceLimited": "npx jest ./tests/asyncReduceLimited.test.js",
     "asyncWaterfall": "npx jest ./tests/asyncWaterfall.test.js",
