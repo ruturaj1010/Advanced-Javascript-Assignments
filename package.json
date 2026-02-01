@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "This folder contains assignments related to asynchronous JavaScript.",
   "main": "index.js",
-  "scripts": {
+  "scripts": { 
     "delay": "npx jest ./tests/delay.test.js",
     "ensureAsync": "npx jest ./tests/ensureAsync.test.js",
     "fetchWithTimeout": "npx jest ./tests/fetchWithTimeout.test.js",
